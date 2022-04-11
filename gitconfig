@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = giannina@haldenweg.ch
+	name = Giannina Binder
